@@ -8,3 +8,7 @@ check a username against websites
 
 # usage
 - `python username123 socials.txt -v -t`
+
+# errors
+
+- make sure to install python2 and pip
