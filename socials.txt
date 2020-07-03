@@ -1,0 +1,41 @@
+# APPEND HOWEVER YOU LIKE. BELOW ARE SOME POPULAR USER PAGES ALREADY, DO NOT SHY AWAY FROM ADDING MORE
+#
+# FORMAT:
+# Display_Name : User_Webpage/<user>/
+# ---------------------------
+Instagram:https://www.instagram.com/<user>/
+Facebook:https://www.facebook.com/<user>/
+SoundCloud:https://www.soundcloud.com/<user>/
+Twitter:https://www.twitter.com/<user>/
+YouTube:https://www.youtube.com/user/<user>/
+Reddit:https://www.reddit.com/user/<user>/
+Github:https://www.github.com/<user>/
+GitLab:https://gitlab.com/<user>
+Flickr:https://www.flickr.com/people/<user>/
+Vimeo:https://vimeo.com/<user>/
+Medium:https://www.medium.com/@<user>/
+VK:https://www.vk.com/<user>/
+Spotify:https://open.spotify.com/user/<user>/
+Patreon:https://www.patreon.com/<user>/
+Buzzfeed:https://www.buzzfeed.com/<user>/
+Wikipedia:https://www.wikipedia.org/wiki/User:<user>/
+OkCupid:https://www.okcupid.com/profile/<user>/
+Xbox:https://www.xboxgamertag.com/search/<user>/
+PSN:https://psnprofiles.com/<user>/
+Steam:https://steamcommunity.com/id/<user>
+2Dimensions:https://rive.app/a/<user>/
+BlogSpot:http://<user>.blogspot.com/
+Fortnite Tracker:https://fortnitetracker.com/profile/all/<user>
+Hacker News:https://news.ycombinator.com/user?id=<user>
+Hack The Box:https://forum.hackthebox.eu/profile/<user>
+Leet Code:https://leetcode.com/<user>/
+Pastebin:https://pastebin.com/u/<user>
+PhotoBucket:https://s641.photobucket.com/user/<user>
+Quora:https://www.quora.com/profile/<user>
+Reddit:https://www.reddit.com/user/<user>
+Signal:https://community.signalusers.org/u/<user>
+Star Citizen:https://robertsspaceindustries.com/citizens/<user>
+Tinder:https://tindersearch.com/browse/<user>
+Twitch:https://www.twitch.tv/<user>
+Youtube:https://www.youtube.com/user/<user>
+Tracr.co:https://tracr.co/users/1/<user>
