@@ -1,5 +1,5 @@
 # social-sniper
-check a username against websites
+- check a username against websites
 ![ssniper](https://user-images.githubusercontent.com/48811414/86419313-9c4e1500-bcca-11ea-9fe2-5137577aed61.PNG)
 # Installation
 - `git clone https://github.com/NULL-Security-Team/social-sniper`
