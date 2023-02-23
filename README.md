@@ -11,11 +11,11 @@
 - `pip install colorama`
 
 # usage
-- `python username123 socials.txt -v -t`
+- `python3 username123 socials.txt -v -t`
 
 # errors
 
-- make sure to install python2 and pip
+- make sure to install python3 and pip
 
 # Credits
 - sircryptic @null security team // fetching back dead tool
