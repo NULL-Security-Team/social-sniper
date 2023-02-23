@@ -15,21 +15,21 @@ def getList(list):
 		wlist = open(list, 'r')
 		return wlist
 	except:
-		print 'Unable to open social list'
+		print('Unable to open social list')
 		sys.exit()
 def testMedia(name, social, f, s):
 	global num
 	try:
 		r = requests.get(f.strip() + name.strip() + s.strip())
 	except KeyboardInterrupt:
-		print
+		print()
 		sys.exit()
 	if r.status_code == 200:
-		print '"%s" exists on %s'%(c.g+name+c.w, c.g+social+c.w)
+		print('"%s" exists on %s'%(c.g+name+c.w, c.g+social+c.w))
 		num += 1
 	else:
 		if '-v' in sys.argv:
-			print '"%s" does not exist on %s'%(c.r+name+c.w, c.r+social+c.w)
+			print('"%s" does not exist on %s'%(c.r+name+c.w, c.r+social+c.w))
 def parseW(name, list):
 	global num
 	num = 0
@@ -44,10 +44,10 @@ def parseW(name, list):
 			else:
 				testMedia(name, social, f,s)
 	if '-t' not in sys.argv:
-		print '%s accounts found with the username: %s'%(c.g+str(num)+c.w, c.g+name+c.w)
+		print('%s accounts found with the username: %s'%(c.g+str(num)+c.w, c.g+name+c.w))
 def main():
 	if len(sys.argv) == 1:
-		print 'Usage:\n\tpython %s <username> <socials_wordlist> <-t(hread)> <-v(erbose)>\nExample:\n\tpython %s exampleexample123 socials.txt -v -t\n'%(sys.argv[0], sys.argv[0])
+		print('Usage:\n\tpython %s <username> <socials_wordlist> <-t(hread)> <-v(erbose)>\nExample:\n\tpython %s exampleexample123 socials.txt -v -t\n'%(sys.argv[0], sys.argv[0]))
 		sys.exit()
 	uname = sys.argv[1]
 	wlist = getList(sys.argv[2])
